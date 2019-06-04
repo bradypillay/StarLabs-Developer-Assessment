@@ -1,0 +1,7 @@
+C:\Users\brady\OneDrive\Desktop\Program\bin\Debug\Program.exe.config
+C:\Users\brady\OneDrive\Desktop\Program\bin\Debug\Program.exe
+C:\Users\brady\OneDrive\Desktop\Program\bin\Debug\Program.pdb
+C:\Users\brady\OneDrive\Desktop\Program\obj\Debug\Program.csprojAssemblyReference.cache
+C:\Users\brady\OneDrive\Desktop\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\brady\OneDrive\Desktop\Program\obj\Debug\Program.exe
+C:\Users\brady\OneDrive\Desktop\Program\obj\Debug\Program.pdb
